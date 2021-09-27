@@ -11,5 +11,5 @@
 
 - `Présentation du projet.pdf` : présentation générale du projet.
 - `Rapport du projet.pdf` :  Rapport du projet.
-- `NoteBook_Courant_du_Futur_Final` :  Code source + resultats des algorithmes. 
+- `NoteBook_Courant_du_Futur_Final.pdf` :  Code source + resultats des algorithmes. 
 
