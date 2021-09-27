@@ -5,4 +5,11 @@
 
 - Mon rôle consistait à découvrir, transformer et organiser les données, ainsi que faire des visualisations dans le but de comprendre les données et faire des bonnes prédictions dans la phase d'implémentation des modèles.
  
-- J'ai aussi implémenté l'algorithme "random forest classifier" et comparer les résultats obtenus avec d'autres algorithmes..
+- J'ai aussi implémenté l'algorithme "random forest classifier" et comparer les résultats obtenus avec d'autres algorithmes.
+
+## les fichiers dessus :
+
+- `Présentation du projet.pdf` : présentation générale du projet.
+- `Rapport du projet.pdf` :  Rapport du projet.
+- `NoteBook_Courant_du_Futur_Final` :  Code source + resultats des algorithmes. 
+
