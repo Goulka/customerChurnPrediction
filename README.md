@@ -1,4 +1,4 @@
-# customerChurnPrediction
+# CustomerChurnPrediction
 
 - J'ai créé avec mon équipe une application  en utilisant le framework Django et l’apprentissage des algorithmes machine( machine learning).
   Son but  était de prédire avec un pourcentage si un client se désabonnerait. 
@@ -7,7 +7,7 @@
  
 - J'ai aussi implémenté l'algorithme "random forest classifier" et comparer les résultats obtenus avec d'autres algorithmes.
 
-## les fichiers dessus :
+## Les fichiers dessus :
 
 - `Présentation du projet.pdf` : présentation générale du projet.
 - `Rapport du projet.pdf` :  Rapport du projet.
